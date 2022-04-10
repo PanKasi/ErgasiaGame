@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\panos\Desktop\Σχολή\Εξάμηνο 2\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(271,38): warning C4101: 'accheck': unreferenced local variable
+C:\Users\panos\Desktop\Σχολή\Εξάμηνο 2\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(271,30): warning C4101: 'enmove': unreferenced local variable
+C:\Users\panos\Desktop\Σχολή\Εξάμηνο 2\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(383,7): warning C4101: 'gen': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\panos\Desktop\Σχολή\Εξάμηνο 2\C++\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
