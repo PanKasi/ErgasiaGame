@@ -1,6 +1,7 @@
 # ErgasiaGame
 Fixes:
 name confirmation yes works with anything
+
 make spaces not show in afresgrandson battle
 pause after tour battles
 make text for the tour battles
