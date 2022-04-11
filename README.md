@@ -13,4 +13,4 @@ make the game victory screen
 
 system clc before battles
 
-make sure acc works wright
+make sure acc works right
